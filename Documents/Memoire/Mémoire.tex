@@ -1,0 +1,24 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{fontspec}
+\usepackage[french]{babel}
+\usepackage{hyperref} % <-- ajoute les liens cliquables dans le PDF
+\usepackage{amsmath, amssymb, geometry}
+\geometry{margin=2.5cm}
+%\setmainfont{Times New Roman}
+
+\title{MÉMOIRE \\
+MASTER 2 SCIENCES CHIRURGICALES}
+\author{Thomas Husson}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\input{introduction}       % <--- appelle introduction.tex
+
+\bibliographystyle{plain}
+\bibliography{biblio}
+
+\end{document}
