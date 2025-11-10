@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.22)  6 NOV 2025 11:46
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.22)  9 NOV 2025 17:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -427,56 +427,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write4
 \openout4 = `Protocole.toc'.
 
- (./introduction.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--6
-
- []
-
-
-./introduction.tex:12: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12   \item \textbf
-                    {Fonction base de données :}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./introduction.tex:28: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28   \item \textbf
-                    {Fonction visualisation :}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./introduction.tex:34: LaTeX Error: \begin{document} ended by \end{itemize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \end{itemize}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./introduction.tex:34: Extra \endgroup.
-\end  ...end#1\endcsname \@checkend {#1}\endgroup 
-                                                  \UseHook {env/#1/after}\if...
-l.34 \end{itemize}
-                  
-Things are pretty mixed up, but I think the worst is over.
-
-)
+ (./introduction.tex)
 No file Protocole.bbl.
 
 
@@ -491,12 +442,12 @@ Package rerunfilecheck Info: File `Protocole.out' has not changed.
 (rerunfilecheck)             Checksum: 9814C2D956916ADB9290ECA4E25C967A;103.
  ) 
 Here is how much of TeX's memory you used:
- 13614 strings out of 473832
- 265311 string characters out of 5729480
- 722092 words of memory out of 5000000
- 36557 multiletter control sequences out of 15000+600000
+ 13612 strings out of 473832
+ 265253 string characters out of 5729480
+ 715092 words of memory out of 5000000
+ 36555 multiletter control sequences out of 15000+600000
  561860 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 79i,6n,93p,284b,340s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,6n,93p,270b,342s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on Protocole.pdf (1 page).
