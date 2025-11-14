@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Protocole.aux
+The style file: vancouver.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: Bibliographie_zotero.bib
+Too many commas in name 3 of "Matton, Alix P.  M.  and Burlage, Laura C.  and family=Rijn, given=Rianne, prefix=van, useprefix=true and family=Vries, given=Yvonne, prefix=de, useprefix=true and Karangwa, Shanice A.  and Nijsten, Maarten W.  and Gouw, Annette S.  H.  and Wiersema‐Buist, Janneke and Adelmeijer, Jelle and Westerkamp, Andrie C.  and Lisman, Ton and Porte, Robert J. " for entry mattonNormothermicMachinePerfusion2018b
+while executing---line 1983 of file vancouver.bst
+Too many commas in name 4 of "Matton, Alix P.  M.  and Burlage, Laura C.  and family=Rijn, given=Rianne, prefix=van, useprefix=true and family=Vries, given=Yvonne, prefix=de, useprefix=true and Karangwa, Shanice A.  and Nijsten, Maarten W.  and Gouw, Annette S.  H.  and Wiersema‐Buist, Janneke and Adelmeijer, Jelle and Westerkamp, Andrie C.  and Lisman, Ton and Porte, Robert J. " for entry mattonNormothermicMachinePerfusion2018b
+while executing---line 1983 of file vancouver.bst
+`journal' is a missing field, not a string, for entry mattonNormothermicMachinePerfusion2018b
+while executing---line 1983 of file vancouver.bst
+Warning--empty journal in mattonNormothermicMachinePerfusion2018b
+Warning--empty year in mattonNormothermicMachinePerfusion2018b
+You've used 1 entry,
+            3507 wiz_defined-function locations,
+            696 strings with 5352 characters,
+and the built_in function-call counts, 5319 in all, are:
+= -- 600
+> -- 36
+< -- 18
++ -- 25
+- -- 8
+* -- 496
+:= -- 581
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 0
+chr.to.int$ -- 40
+cite$ -- 3
+duplicate$ -- 298
+empty$ -- 537
+format.name$ -- 8
+if$ -- 1215
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 15
+newline$ -- 8
+num.names$ -- 1
+pop$ -- 41
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 31
+stack$ -- 0
+substring$ -- 1276
+swap$ -- 38
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 15
+width$ -- 2
+write$ -- 12
+(There were 3 error messages)
